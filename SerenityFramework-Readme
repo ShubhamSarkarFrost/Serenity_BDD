@@ -1,0 +1,5 @@
+to run this project
+1- mvn clean
+2- maven verify
+
+3- to generate the Serenity BDD Report -mvn serenity:aggregate
